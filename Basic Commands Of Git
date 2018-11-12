@@ -1,0 +1,15 @@
+With these commands one can have access to his/her git account.
+A programmer can push files to git and another can clone them by the basic knowledge of git commands and git bash.
+A lot more interesting things can be done by using git.
+
+Basic commands--
+
+1 git config--global user.email"ankush.mca@mietjammu.in"
+2 git config--global user.name "ankushcse"
+3 git add [filename] or -A
+4 git status
+5 git commit -m[message to be added]
+6 git remote add origin repoName
+7 git push origin master
+7 git clone repoName
+8 git pull origin master
