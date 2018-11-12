@@ -1,0 +1,5 @@
+git branch
+git branch new_feature
+git checkout new_feature
+git checkout master
+git merge new_feature
