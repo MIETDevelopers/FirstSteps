@@ -5,4 +5,6 @@ This is a tutorial for anyone who is new to Gihub and any Git system. It is desi
 https://git-scm.com/
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
+See the life_cycle.png image.
 
+Perform Task 1.
